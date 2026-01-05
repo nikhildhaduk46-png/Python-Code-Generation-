@@ -1,0 +1,24 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Transformer / ML files
+.cache/
+models/
+checkpoints/
+
+# PyTorch models
+*.pt
+*.pth
