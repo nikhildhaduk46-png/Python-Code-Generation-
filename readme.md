@@ -21,7 +21,7 @@ g.Reduces coding time and human errors
 
 3) How It Works:
 
-a.The user provides a natural language prompt (example: “Write a Python function to calculate factorial”).
+a.The user provides a natural language prompt (example: “Write a Python function to  check if a number is prime”).
 
 b.The input is tokenized into numerical representations.
 
